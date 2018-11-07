@@ -1,0 +1,8 @@
+age = prompt ("tell me your age:");  //this is how javascript asks for input from user, prompt
+console.log (age);  //output back to user
+
+var a = "42";
+var b = Number( a );  //conercing string to number
+
+console.log( a );	// "42"
+console.log( b );	// 42
